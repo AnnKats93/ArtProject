@@ -1,2 +1,1 @@
-ArtProject
-==========
+Try out git and github
